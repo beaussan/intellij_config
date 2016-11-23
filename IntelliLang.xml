@@ -9,9 +9,5 @@
       <display-name>AbstractCharSequenceAssert.matches (org.assertj.core.api)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.CharSequence").definedInClass("org.assertj.core.api.AbstractCharSequenceAssert"))]]></place>
     </injection>
-    <injection language="Properties" injector-id="java">
-      <display-name>StringUtils.getFromLocale (fil.coo.utils)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getFromLocale").withParameters("java.lang.String").definedInClass("fil.coo.utils.StringUtils"))]]></place>
-    </injection>
   </component>
 </application>
