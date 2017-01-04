@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[COO-Questionnaire] - .../src/main/java/fil/coo/AnswerFactory.java'" />
-    <option name="defaultScopeName" value="File '[COO-Questionnaire] - .../src/main/java/fil/coo/AnswerFactory.java'" />
-    <option name="SEARCH_SCOPE" value="File '[COO-Questionnaire] - .../src/main/java/fil/coo/AnswerFactory.java'" />
+    <option name="customScope" value="Project 'gameframework'" />
+    <option name="defaultScopeName" value="Project 'gameframework'" />
+    <option name="SEARCH_SCOPE" value="Project 'gameframework'" />
   </component>
 </application>
