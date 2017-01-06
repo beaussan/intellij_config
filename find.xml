@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'gameframework'" />
-    <option name="defaultScopeName" value="Project 'gameframework'" />
-    <option name="SEARCH_SCOPE" value="Project 'gameframework'" />
+    <option name="customScope" value="Directory '[gameframework] - .../src/main/java'" />
+    <option name="defaultScopeName" value="Directory '[gameframework] - .../src/main/java'" />
+    <option name="SEARCH_SCOPE" value="Directory '[gameframework] - .../src/main/java'" />
   </component>
 </application>
