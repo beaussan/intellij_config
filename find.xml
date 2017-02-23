@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[dashy_main] - .../src/main/webapp'" />
-    <option name="defaultScopeName" value="Directory '[dashy_main] - .../src/main/webapp'" />
-    <option name="SEARCH_SCOPE" value="Directory '[dashy_main] - .../src/main/webapp'" />
+    <option name="customScope" value="Directory '[dashy] - .../template/new/source/src/app'" />
+    <option name="defaultScopeName" value="Directory '[dashy] - .../template/new/source/src/app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[dashy] - .../template/new/source/src/app'" />
   </component>
 </application>
