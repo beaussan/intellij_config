@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cjpeg" type="PLAIN_TEXT" />
+      <mapping ext="jdl" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
